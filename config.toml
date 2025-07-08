@@ -1,5 +1,5 @@
 # The URL the site will be built for
-base_url = "https://tentime.github.io"
+base_url = ""
 
 # Whether to automatically compile all Sass files in the sass directory
 compile_sass = true
@@ -20,8 +20,8 @@ highlight_code = true
 
 ## Navigation
 header_nav = [
-  { url = "/", name_en = "/home/", name_fr = "/accueil/" },
-  { url = "/10x", name_en = "/10x Engineering/", name_fr = "/10x/" },
-  { url = "/books", name_en = "/books/", name_fr = "/livres/" }
+  { url = "/", name_en = "/home/"},
+  { url = "/engineering", name_en = "/10x Engineering/"},
+  { url = "/books", name_en = "/10x Books/"}
 ]
 
